@@ -1,2 +1,2 @@
-require("josean.core.options")
-require("josean.core.keymaps")
+require("jpoley.core.options")
+require("jpoley.core.keymaps")
